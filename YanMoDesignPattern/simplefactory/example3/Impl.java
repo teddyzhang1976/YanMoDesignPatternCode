@@ -1,4 +1,4 @@
-package cn.javass.dp.simplefactory.example3;
+package simplefactory.example3;
 /**
  * 对接口的实现 
  */

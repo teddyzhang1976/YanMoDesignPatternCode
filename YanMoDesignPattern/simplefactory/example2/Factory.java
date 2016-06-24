@@ -1,4 +1,4 @@
-package cn.javass.dp.simplefactory.example2;
+package simplefactory.example2;
 /**
  * 工厂类，用来创造Api对象
  */

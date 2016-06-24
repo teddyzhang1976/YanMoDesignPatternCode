@@ -1,4 +1,4 @@
-package cn.javass.dp.simplefactory.example3;
+package simplefactory.example3;
 /**
  * 客户端：测试使用Api接口
  */

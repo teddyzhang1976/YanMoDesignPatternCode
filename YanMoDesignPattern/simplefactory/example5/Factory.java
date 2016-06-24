@@ -1,4 +1,4 @@
-package cn.javass.dp.simplefactory.example5;
+package simplefactory.example5;
 import java.util.*;
 import java.io.*;
 /**

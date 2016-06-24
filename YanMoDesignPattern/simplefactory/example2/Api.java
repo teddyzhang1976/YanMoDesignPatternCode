@@ -1,4 +1,4 @@
-package cn.javass.dp.simplefactory.example2;
+package simplefactory.example2;
 /**
  * 接口的定义，该接口可以通过简单工厂来创建
  */

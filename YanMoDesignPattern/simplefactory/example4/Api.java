@@ -1,4 +1,4 @@
-package cn.javass.dp.simplefactory.example4;
+package simplefactory.example4;
 /**
  * 某个接口(通用的、抽象的、非具体的功能的) 
  */
