@@ -1,4 +1,6 @@
-package cn.javass.dp.singleton.example1;
+package singleton.example1;
+
+
 
 public class Client {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package cn.javass.dp.singleton.example1;
+package singleton.example1;
 
 import java.io.*;
 import java.util.*;
