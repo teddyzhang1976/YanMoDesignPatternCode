@@ -1,4 +1,4 @@
-package cn.javass.dp.factorymethod.example1;
+package factorymethod.example1;
 /**
  * 实现导出数据的业务功能对象
  */
