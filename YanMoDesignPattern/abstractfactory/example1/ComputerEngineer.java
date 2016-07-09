@@ -1,4 +1,4 @@
-package cn.javass.dp.abstractfactory.example1;
+package abstractfactory.example1;
 
 /**
  * 装机工程师的类

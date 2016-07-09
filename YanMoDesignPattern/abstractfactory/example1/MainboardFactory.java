@@ -1,4 +1,4 @@
-package cn.javass.dp.abstractfactory.example1;
+package abstractfactory.example1;
 /**
  * 创建主板的简单工厂
  */
