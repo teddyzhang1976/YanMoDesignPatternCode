@@ -1,4 +1,4 @@
-package cn.javass.dp.factorymethod.example3;
+package factorymethod.example3;
 /**
  * 导出成文本文件格式的对象
  */

@@ -1,4 +1,4 @@
-package cn.javass.dp.factorymethod.example2;
+package factorymethod.example2;
 /**
  * 创建器，声明工厂方法
  */

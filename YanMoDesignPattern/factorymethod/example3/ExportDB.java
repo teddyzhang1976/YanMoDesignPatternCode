@@ -1,4 +1,4 @@
-package cn.javass.dp.factorymethod.example3;
+package factorymethod.example3;
 /**
  * 导出成数据库备份文件形式的对象
  */

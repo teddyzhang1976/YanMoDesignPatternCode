@@ -1,4 +1,4 @@
-package cn.javass.dp.factorymethod.example4;
+package factorymethod.example4;
 /**
  * 客户端使用Creator对象的情况下，Creator的基本实现结构
  */

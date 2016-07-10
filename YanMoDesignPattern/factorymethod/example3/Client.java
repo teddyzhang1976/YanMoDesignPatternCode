@@ -1,4 +1,4 @@
-package cn.javass.dp.factorymethod.example3;
+package factorymethod.example3;
 
 public class Client {
 	public static void main(String[] args) {

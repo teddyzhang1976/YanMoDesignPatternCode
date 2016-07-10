@@ -1,4 +1,4 @@
-package cn.javass.dp.factorymethod.example3;
+package factorymethod.example3;
 /**
  * 导出的文件对象的接口
  */
