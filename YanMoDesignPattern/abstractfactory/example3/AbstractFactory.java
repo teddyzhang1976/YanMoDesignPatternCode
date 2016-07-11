@@ -1,4 +1,4 @@
-package cn.javass.dp.abstractfactory.example3;
+package abstractfactory.example3;
 /**
  * 抽象工厂的接口，声明创建抽象产品对象的操作
  */

@@ -1,4 +1,4 @@
-package cn.javass.dp.abstractfactory.example2;
+package abstractfactory.example2;
 
 public class Client {
 

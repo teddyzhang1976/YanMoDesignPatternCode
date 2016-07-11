@@ -1,4 +1,4 @@
-package cn.javass.dp.abstractfactory.example3;
+package abstractfactory.example3;
 
 /**
  * 装机方案一：Intel 的CPU + 技嘉的主板

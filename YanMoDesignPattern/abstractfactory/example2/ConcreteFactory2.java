@@ -1,4 +1,4 @@
-package cn.javass.dp.abstractfactory.example2;
+package abstractfactory.example2;
 /**
  * 具体的工厂实现对象，实现创建具体的产品对象的操作
  */

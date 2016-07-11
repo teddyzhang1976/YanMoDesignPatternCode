@@ -1,4 +1,4 @@
-package cn.javass.dp.abstractfactory.example2;
+package abstractfactory.example2;
 
 /**
  * 产品A的具体实现
